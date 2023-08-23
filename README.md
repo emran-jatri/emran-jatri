@@ -1,7 +1,7 @@
 ### Emran Ibn Shayed
 ## I'm a Software Engineer 🖥!
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Joyontokarmakar" alt="Joyonto Karmakar" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=emran-jatri" alt="Joyonto Karmakar" /> </p>
 
 
 - 💻 I’m currently working ... as a frontend web developer at Jatri Service Limited
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/joyontokarmakar)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/joyontokarmaker/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/joyontostd) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ibnshayed)   [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/ibnshayed/)   [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ibnshayed) 
 
 ### Languages and Tools:
 
@@ -30,7 +30,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 <br/>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyontoKarmakar&layout=compact&hide=html" alt="joyonto" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emran-jatri&layout=compact&hide=html" alt="emran" /></p>
 
 <br />
 <br />
